@@ -1,3 +1,11 @@
+/*
+Instructions:
+
+The code should not contain a global myVar variable.
+You should add a local myVar variable.
+
+Note: The console will still have 'ReferenceError: myVar is not defined', but this will not cause the tests to fail.
+*/
 function myLocalScope() {
 
   // Only change code below this line
