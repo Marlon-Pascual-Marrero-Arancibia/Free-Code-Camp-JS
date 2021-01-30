@@ -19,7 +19,7 @@ testLogicalAnd(80) should return "No"
 function testLogicalAnd(val) {
   // Only change code below this line
 
-  if (val > 5 && val < 10) {
+  if (val >= 25 && val <= 50) {
     return "Yes";
   }
 
