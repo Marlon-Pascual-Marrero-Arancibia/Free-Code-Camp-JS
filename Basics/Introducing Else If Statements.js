@@ -21,7 +21,6 @@ function testElseIf(val) {
   } else {
     return "Between 5 and 10";
   }
-  
 }
 
 testElseIf(7);
