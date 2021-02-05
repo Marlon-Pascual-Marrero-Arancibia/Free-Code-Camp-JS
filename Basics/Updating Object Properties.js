@@ -15,4 +15,4 @@ var myDog = {
 };
 
 // Only change code below this line
-myDog.name = "Happy Camper";
+myDog.name = "Happy Coder";
